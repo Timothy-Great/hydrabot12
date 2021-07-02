@@ -1,0 +1,267 @@
+[
+  {
+    "id": "551af5d6-a883-45c8-86e2-eb70556f43b8",
+    "data": [
+      {
+        "text": "0391234345",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5e89772-3a74-4808-aa6e-890674043e3a",
+    "data": [
+      {
+        "text": "Muwangala ngobi stewart",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84a28104-316f-4a29-8d25-c2814bb56516",
+    "data": [
+      {
+        "text": "Ngobi Muwangala",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "651fa8ca-662e-4cd2-b66b-f268e0aca33b",
+    "data": [
+      {
+        "text": "Nakato Shamida",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1353b3b-fc1d-4e44-9f91-062e2a31c88d",
+    "data": [
+      {
+        "text": "Shamida",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06e44f13-8920-4026-85e1-da5397d40e53",
+    "data": [
+      {
+        "text": "Mukiibi",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Ibrahim",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2d09f9a-5167-4d98-bb02-adbf0e62403b",
+    "data": [
+      {
+        "text": "James Mukiibi",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e022a720-dc6d-498d-ab0a-d861d818e0c0",
+    "data": [
+      {
+        "text": "Jonathan",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37b24e19-b6cb-453f-8f14-5a7681c925bf",
+    "data": [
+      {
+        "text": "+256702054114",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2b1f0c4-602f-42ef-a96a-88b8ff90c020",
+    "data": [
+      {
+        "text": "0772748212",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38ae5e30-89a1-4d4f-acba-cf7798371123",
+    "data": [
+      {
+        "text": "Stewart",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b7d60b0-5247-4a1f-a441-e8051d2674b1",
+    "data": [
+      {
+        "text": "keredo@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1adfec6-e196-49b5-b698-208b76192a24",
+    "data": [
+      {
+        "text": "adam124@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "422096e0-717e-4c80-a421-ba285034baa0",
+    "data": [
+      {
+        "text": "stewartmuwan@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7eb04e0b-ad4c-4f9a-8ae2-9d7f06033e70",
+    "data": [
+      {
+        "text": "tibalaba@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce44288a-efe7-409c-92ec-7bf1c440345e",
+    "data": [
+      {
+        "text": "0702054114",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6288d445-3d0c-4765-9d65-5266b62b38d9",
+    "data": [
+      {
+        "text": "timothy",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

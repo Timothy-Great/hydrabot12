@@ -1,0 +1,44 @@
+{
+  "id": "186d1194-38d4-49f1-945b-77d4a679c3b7",
+  "parentId": "e7c52c29-3174-4b5b-9a75-f31d77461a21",
+  "rootParentId": "061af7f4-7bd2-461c-a8d4-74970fd2bfa5",
+  "name": "EmotionalLagTime - yes - yes",
+  "auto": true,
+  "contexts": [
+    "EmotionalLagTime-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "EmotionalLagTime.EmotionalLagTime-yes.EmotionalLagTime-yes-yes",
+      "affectedContexts": [
+        {
+          "name": "EmotionalLagTime-yes-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Awesome! Kindly give us your full name such that one of our staff can contact you for further details"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

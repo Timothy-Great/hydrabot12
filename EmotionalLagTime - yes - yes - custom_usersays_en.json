@@ -1,0 +1,498 @@
+[
+  {
+    "id": "e83f6861-41f6-4a4d-877d-333768f594ca",
+    "data": [
+      {
+        "text": "+",
+        "userDefined": false
+      },
+      {
+        "text": "256712658845",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6d1cd2e-bd59-444e-b4a2-af1df023f285",
+    "data": [
+      {
+        "text": "kafumbe Davis",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e95b6e9a-d32e-42ad-9d9d-6dc86ce318f1",
+    "data": [
+      {
+        "text": "Ddamba Shaffik",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec4894b0-02f0-4534-be17-5be4509ae07f",
+    "data": [
+      {
+        "text": "Ssebankyaye Hassan",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dfa3da18-55b2-43b6-96c0-57f03480f835",
+    "data": [
+      {
+        "text": "nabanjja Lot",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ca6387c-141c-4d7d-b9ec-61f3f6d6f59f",
+    "data": [
+      {
+        "text": "katerana Job",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "abc4f86c-2e8f-49f9-988d-7f4a917cddcc",
+    "data": [
+      {
+        "text": "Job katerana",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4e1a4a5-b49e-42ab-aa11-268e0e537a2a",
+    "data": [
+      {
+        "text": "nabirye",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      },
+      {
+        "text": " haawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebd495e2-b484-4c6b-8dde-3467c1830a15",
+    "data": [
+      {
+        "text": "Jonah Nabirye",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "009c7d0c-05f2-4d0b-99ee-206ac1cfc2cc",
+    "data": [
+      {
+        "text": "0751256365",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9bb2f052-4533-4913-bd95-bf4da265cb49",
+    "data": [
+      {
+        "text": "Mukula",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " Mike",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24f50b01-abb6-412d-a5fa-0d1ede3f1900",
+    "data": [
+      {
+        "text": "Irene",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mukulu",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb5d313f-a804-429a-8f55-7ff7821486db",
+    "data": [
+      {
+        "text": "Kanaakulya ",
+        "userDefined": false
+      },
+      {
+        "text": "Leo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a47c7a56-a5b1-4a38-81b3-2b6ef7b01219",
+    "data": [
+      {
+        "text": "Ronald Musoke",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "533da1d9-54ee-4492-82a1-1aa45e69ba55",
+    "data": [
+      {
+        "text": "Mukiibi",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Ibrahim",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ad79d34-95c5-4bb2-bd42-07fdb719ca00",
+    "data": [
+      {
+        "text": "jean123@yahoo.co.uk",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88397f51-5d38-4b56-9332-1fb75087d911",
+    "data": [
+      {
+        "text": "stewartmuwan@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6584d60-e813-44d8-9e0f-31c1341f0ae4",
+    "data": [
+      {
+        "text": "tibalaba@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e817b14-0f52-4d8d-a35f-19f25eb0026b",
+    "data": [
+      {
+        "text": "Josh",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0e65b43-343c-4bef-965c-6e5c251f72b7",
+    "data": [
+      {
+        "text": "yawulira Mufumbiro",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c41e31d3-6d2b-4937-bb34-ded65af2c293",
+    "data": [
+      {
+        "text": "Yawulira",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Timothy",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "0772748212",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d664b3ab-e4b8-4ada-89ab-82c9bc1181c8",
+    "data": [
+      {
+        "text": "Calvin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "048f59de-cb3b-4214-8ef0-ccfa4c8c42be",
+    "data": [
+      {
+        "text": "John",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ceb3f8ad-5374-4812-8dc2-28d6b2134845",
+    "data": [
+      {
+        "text": "Balaba",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19221127-ca51-495a-92e4-ec7501664ddf",
+    "data": [
+      {
+        "text": "Stewart",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "0777272136",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef09902d-1e2a-4cb9-88d5-bd98fe2344f2",
+    "data": [
+      {
+        "text": "Timothy",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "0702054114",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c5743dc-d7b9-47d5-bdb7-de2aeac09f59",
+    "data": [
+      {
+        "text": "timothy",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Balaba",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84b52b8d-83eb-4949-bace-9afe5dfab293",
+    "data": [
+      {
+        "text": "Timothy",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

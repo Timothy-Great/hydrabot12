@@ -1,0 +1,43 @@
+{
+  "id": "4d4683c2-1831-4c95-ac4e-74af4aa2a397",
+  "parentId": "1daa3bf9-b913-47bf-a2a8-cbc7d5a8e3c7",
+  "rootParentId": "5e84d30d-f4ff-4c8c-8986-f1d5ee545958",
+  "name": "FollowConvertSupport - later - custom - custom",
+  "auto": true,
+  "contexts": [
+    "FollowConvertSupport-later-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FollowConvertSupport.FollowConvertSupport-later.FollowConvertSupport-later-custom.FollowConvertSupport-later-custom-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Cool",
+            "kawa",
+            "Ok",
+            "okay then"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

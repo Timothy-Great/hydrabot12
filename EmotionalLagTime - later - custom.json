@@ -1,0 +1,139 @@
+{
+  "id": "cf31c818-e973-416e-85c8-0e0ae52e667e",
+  "parentId": "d2fba383-5afe-4439-b793-ca137d2747ec",
+  "rootParentId": "061af7f4-7bd2-461c-a8d4-74970fd2bfa5",
+  "name": "EmotionalLagTime - later - custom",
+  "auto": true,
+  "contexts": [
+    "EmotionalLagTime-later-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "EmotionalLagTime.EmotionalLagTime-later.EmotionalLagTime-later-custom",
+      "affectedContexts": [
+        {
+          "name": "EmotionalLagTime-later-custom-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7a29f982-9b36-433b-8a4f-10b1d4644c0e",
+          "name": "person",
+          "required": true,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "dd911bc2-0ab8-4fa1-8aed-d4c234c87f51",
+          "name": "period",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "750571d7-482e-434c-a47b-8748659483cd",
+          "name": "time",
+          "required": false,
+          "dataType": "@sys.duration",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ebc7890e-2d58-45a5-8212-951b152b0485",
+          "name": "time2",
+          "required": false,
+          "dataType": "@sys.time",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8c543cab-1615-4085-8ed1-2b6ab7f775f8",
+          "name": "time3",
+          "required": false,
+          "dataType": "@sys.time-period",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "5314dff1-d40d-4679-b6e4-341ad9cfb7bc",
+          "name": "date-time",
+          "required": true,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "81d3aac9-4190-4128-9849-c4d24e9df98d",
+          "name": "phone",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "value": "$phone",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you so much. We shall hold on to that."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

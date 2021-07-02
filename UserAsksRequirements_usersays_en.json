@@ -1,0 +1,211 @@
+[
+  {
+    "id": "3ce00666-7777-411c-a1f0-84467a251007",
+    "data": [
+      {
+        "text": "Are ",
+        "userDefined": false
+      },
+      {
+        "text": "there",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "requirements",
+        "meta": "@REQUIREMENTS",
+        "alias": "REQUIREMENTS",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7f279c0-8e8e-43cd-b5b2-8e04259ab1c6",
+    "data": [
+      {
+        "text": "How can I know the ",
+        "userDefined": false
+      },
+      {
+        "text": "requirements",
+        "meta": "@REQUIREMENTS",
+        "alias": "REQUIREMENTS",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25d8fc7f-a4ad-4525-95b7-f42124550b01",
+    "data": [
+      {
+        "text": "Do ",
+        "userDefined": false
+      },
+      {
+        "text": "i need",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " any ",
+        "userDefined": false
+      },
+      {
+        "text": "requirements",
+        "meta": "@REQUIREMENTS",
+        "alias": "REQUIREMENTS",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1025b228-87a8-4f80-98b5-6a7fd311bd1b",
+    "data": [
+      {
+        "text": "requirements",
+        "meta": "@REQUIREMENTS",
+        "alias": "REQUIREMENTS",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37129c2d-c196-4d89-aab4-b7b138e15130",
+    "data": [
+      {
+        "text": "any ",
+        "userDefined": false
+      },
+      {
+        "text": "requirements",
+        "meta": "@REQUIREMENTS",
+        "alias": "REQUIREMENTS",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12564854-777a-4b23-a3d6-e7707249f1aa",
+    "data": [
+      {
+        "text": "what",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "requirements",
+        "meta": "@REQUIREMENTS",
+        "alias": "REQUIREMENTS",
+        "userDefined": true
+      },
+      {
+        "text": " do ",
+        "userDefined": false
+      },
+      {
+        "text": "i need",
+        "meta": "@Interest",
+        "alias": "interest1",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "804ccaae-88c4-46cb-89ed-ccdaec469a6c",
+    "data": [
+      {
+        "text": "What",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " are the ",
+        "userDefined": false
+      },
+      {
+        "text": "requirements",
+        "meta": "@REQUIREMENTS",
+        "alias": "REQUIREMENTS",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "meta": "@Interest",
+        "alias": "interest1",
+        "userDefined": false
+      },
+      {
+        "text": " getting a chat bot",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

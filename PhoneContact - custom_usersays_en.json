@@ -1,0 +1,449 @@
+[
+  {
+    "id": "302a6e9c-3c64-4588-a8ea-00be0f61ee65",
+    "data": [
+      {
+        "text": "Mckenzie Kyomuhendo",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64cbfeed-9a6f-47f9-8760-09ad5481307a",
+    "data": [
+      {
+        "text": "nabulya Racheal",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebef4644-0b3f-448d-9065-1dcac647b380",
+    "data": [
+      {
+        "text": "kyakulya ",
+        "userDefined": false
+      },
+      {
+        "text": "Christine",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd0b8808-d682-4dbd-919c-322280756e21",
+    "data": [
+      {
+        "text": "0782154785",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa73e5d1-758e-4b0f-9873-9a48aba226d2",
+    "data": [
+      {
+        "text": "Tumwebaze ",
+        "userDefined": false
+      },
+      {
+        "text": "ken",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0770dbb-97c3-4a6a-b340-65ec97cff3f7",
+    "data": [
+      {
+        "text": "Kulu kenneth",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50eeff53-776b-4464-b4d5-981b7d327a3f",
+    "data": [
+      {
+        "text": "balaba ",
+        "userDefined": false
+      },
+      {
+        "text": "john",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39b78a48-bf53-46eb-a721-27a697a31cd2",
+    "data": [
+      {
+        "text": "0391254125",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d89488cb-4c80-4252-bc53-d79872490647",
+    "data": [
+      {
+        "text": "Justus Mukiibi",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33e1a1d6-7010-4c32-98bd-1081cde961a8",
+    "data": [
+      {
+        "text": "John Black",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "944640d1-a785-499e-976f-a261921a6e41",
+    "data": [
+      {
+        "text": "mukiibi23@helpme.co.uk",
+        "meta": "@sys.email",
+        "alias": "e-mail",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a64905c-99c2-462d-a6b4-db94f2b33376",
+    "data": [
+      {
+        "text": "musoke345@hotmail.com",
+        "meta": "@sys.email",
+        "alias": "e-mail",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cab110be-f507-4976-bef5-09fe5a4e6bcc",
+    "data": [
+      {
+        "text": "tiana2@yahoo.com",
+        "meta": "@sys.email",
+        "alias": "e-mail",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "358d8b21-1d91-4206-aa74-208641c8d684",
+    "data": [
+      {
+        "text": "Sempala john",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1291d73d-4b88-475c-8ff3-d13bf3aae29e",
+    "data": [
+      {
+        "text": "john mark",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7beb859-8b90-4a88-8f01-457f28819a09",
+    "data": [
+      {
+        "text": "+256702054114",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "169e3951-11a6-49d7-a05d-3d9021b216c7",
+    "data": [
+      {
+        "text": "07822567059",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efcce25f-665e-487c-afdf-6b555ebb1265",
+    "data": [
+      {
+        "text": "geroge",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "041343506",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6760591b-c4cb-4f44-b68d-4f9f1b4f0a11",
+    "data": [
+      {
+        "text": "john",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "039457345",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8384b7d6-3c28-45ef-9f28-a97fd069175e",
+    "data": [
+      {
+        "text": "Baganzi ",
+        "userDefined": false
+      },
+      {
+        "text": "0777272136",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5626912-1355-4a31-88ed-8555d62abe4c",
+    "data": [
+      {
+        "text": "stewart",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "0784502423",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43cd164c-5b90-4dde-bbde-89eaecd2811a",
+    "data": [
+      {
+        "text": "tibalaba@gmail.com",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36d33785-710e-4ebf-907c-5e1a892e7618",
+    "data": [
+      {
+        "text": "tibalaba@gmail.com",
+        "meta": "@sys.email",
+        "alias": "e-mail",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Timothy",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "0702054114",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60737314-4a67-40c8-99fa-cd155e26e627",
+    "data": [
+      {
+        "text": "Timothy",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "0702054114",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28831228-de8f-4a1c-8875-2d055f766621",
+    "data": [
+      {
+        "text": "Timothy 070205",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

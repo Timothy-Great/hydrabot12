@@ -1,0 +1,332 @@
+[
+  {
+    "id": "925a8860-1feb-436b-a696-01c23605a59e",
+    "data": [
+      {
+        "text": "Kitso@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      },
+      {
+        "text": ". ",
+        "userDefined": false
+      },
+      {
+        "text": "Kelvin",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "355af65a-b9be-4223-ae92-eabc80f6bcc9",
+    "data": [
+      {
+        "text": "bambino",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tibalaba@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7aaaed6b-df6b-42ca-9eb3-62e638c68c94",
+    "data": [
+      {
+        "text": "Calvin",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4421fc6-c029-41f7-92af-78c7ebc8160a",
+    "data": [
+      {
+        "text": "Kevin",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0750da73-58e3-4f03-8802-44ba3de72b65",
+    "data": [
+      {
+        "text": "John",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79f7c593-2d59-4b22-8db3-864c59f3bef9",
+    "data": [
+      {
+        "text": "black",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ca025bc-ef29-42fa-bbcd-f3a0b18c4d30",
+    "data": [
+      {
+        "text": "Ssekatawa",
+        "meta": "@sys.last-name",
+        "alias": "lastname",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "280b0eeb-a542-4bdc-b340-2f1bbdf5a3e6",
+    "data": [
+      {
+        "text": "Ngobi",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f83a7f6e-8385-404d-a833-de4ddd7a6b36",
+    "data": [
+      {
+        "text": "Muwangala",
+        "meta": "@sys.last-name",
+        "alias": "lastname",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6119ba37-59ca-47e7-a5eb-056724b4c743",
+    "data": [
+      {
+        "text": "Samuel",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54e3854a-9759-4231-8fea-5605aad241c9",
+    "data": [
+      {
+        "text": "johnblack12@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "903d552a-7deb-4cd5-b936-46d058c4f627",
+    "data": [
+      {
+        "text": "samuel123@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51f3d65f-0bda-401c-bd24-c7c3657cace4",
+    "data": [
+      {
+        "text": "0702054114",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57259671-b43b-4c19-a6b5-c61b0f9b53ff",
+    "data": [
+      {
+        "text": "kasirye",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1f4d306-eeaf-4bcc-b4d8-d8e3c3363317",
+    "data": [
+      {
+        "text": "stewartmuwan@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f882e18e-a928-4f4f-9332-c393464df386",
+    "data": [
+      {
+        "text": "tibalaba@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eed169bd-b9cf-4d36-a093-bf78d5415f54",
+    "data": [
+      {
+        "text": "Namara",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "0702054114",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24e71a13-18cc-430e-a951-71cc429279d7",
+    "data": [
+      {
+        "text": "Namara Cinderella",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10cad878-fc3b-46f5-a955-9637d84c97b1",
+    "data": [
+      {
+        "text": "balaba",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "147019f2-c309-413b-860b-a9fba0615b87",
+    "data": [
+      {
+        "text": "timothy",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

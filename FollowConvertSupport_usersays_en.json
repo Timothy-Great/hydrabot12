@@ -1,0 +1,754 @@
+[
+  {
+    "id": "9674616f-5924-4e05-a0b7-7ff5f9b5cdfd",
+    "data": [
+      {
+        "text": "business",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6c60f26-9b24-466d-8b8f-768944b1bd8e",
+    "data": [
+      {
+        "text": "business",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "301ed87b-ce67-445a-8819-21537e28967c",
+    "data": [
+      {
+        "text": "Work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebeb5a0a-62ab-490c-81a9-22cc4162af53",
+    "data": [
+      {
+        "text": "work",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e124cf4-0a4a-4d85-88de-1eb468579166",
+    "data": [
+      {
+        "text": "Which work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b0c27c8-4f8a-4f5a-921c-ea287f54caf6",
+    "data": [
+      {
+        "text": "what",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " kind",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4da521a8-46a0-4520-bbcf-b2b5b9fccc23",
+    "data": [
+      {
+        "text": "which kind",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0efa46a2-518b-4c23-bd2a-63565154b83d",
+    "data": [
+      {
+        "text": "Looking to improve my ",
+        "userDefined": false
+      },
+      {
+        "text": "business",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5871e95e-c726-4b22-a2de-1f7af370e760",
+    "data": [
+      {
+        "text": "What can you",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " do for me",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "567296e1-a2b5-4444-b14b-9d37a825896c",
+    "data": [
+      {
+        "text": "Which business",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "843cad3a-9336-43a4-bd4e-3f38f383b149",
+    "data": [
+      {
+        "text": "What",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " kind of business",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e337e53-f4a2-4686-b262-1edecafb3258",
+    "data": [
+      {
+        "text": "What",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " business",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce7c6e36-93b5-4df7-8f14-f55296d6550b",
+    "data": [
+      {
+        "text": "What",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " do you do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13529031-e790-4496-a490-2b9b30fa57ef",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " you help me",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05d19f92-ab69-45d7-90df-cb13cabd4f3f",
+    "data": [
+      {
+        "text": "What",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " could ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " do for me",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0c7e4f3-e2d1-4fa4-a152-4950a741774a",
+    "data": [
+      {
+        "text": "what",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " work ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " you do for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7df1fda-e3c9-4e17-9154-9fd456c5e090",
+    "data": [
+      {
+        "text": "I need this ",
+        "userDefined": false
+      },
+      {
+        "text": "service",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bae51267-7737-48a3-9a4a-6e0153f45ee2",
+    "data": [
+      {
+        "text": "I need sales follow up for my business",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "438aa995-9914-4d18-9e6c-e50c5ff73d08",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "support services",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " for my ",
+        "userDefined": false
+      },
+      {
+        "text": "business",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c52ddb8-ed88-4ea3-88da-f453edfff366",
+    "data": [
+      {
+        "text": "Can",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " you create ",
+        "userDefined": false
+      },
+      {
+        "text": "a chat bot for",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " my business",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bfc60b88-1e68-49b2-b941-1045d72bb668",
+    "data": [
+      {
+        "text": "I need",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "sales",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " chatbot for my business",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f2a68ab-c6e4-4633-9ac3-80051912d383",
+    "data": [
+      {
+        "text": "I want",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "chatbot",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " for my business",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6456abad-e572-4d12-8fbc-b88911405511",
+    "data": [
+      {
+        "text": "I need a chat bot",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d638b67-1c4d-46ac-9eb1-d6baab5f2880",
+    "data": [
+      {
+        "text": "i want a chat bot",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57c95f85-0b89-4e07-af81-9f5f7530fd99",
+    "data": [
+      {
+        "text": "I need",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "chatbot",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e7ac429-a858-47e7-b785-7363a321b91b",
+    "data": [
+      {
+        "text": "i want",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "leads follow up",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " chat bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "136ecbdf-5408-4c0a-a520-41543255d1f3",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " you develop ",
+        "userDefined": false
+      },
+      {
+        "text": "for me",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "customer support",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " chatbot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a721314-de71-45d5-915f-4028f0d9a597",
+    "data": [
+      {
+        "text": "Can",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " you create ",
+        "userDefined": false
+      },
+      {
+        "text": "conversion",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " chat bot",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18f1a24e-4f3c-423a-bdf0-36cc06a21866",
+    "data": [
+      {
+        "text": "What",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " do you offer",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3058390d-a603-4dda-863f-9c80e0fe4554",
+    "data": [
+      {
+        "text": "What",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " do you ",
+        "userDefined": false
+      },
+      {
+        "text": "people",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69d11d20-285d-4332-a81e-38d9a100e621",
+    "data": [
+      {
+        "text": "What",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " do you ",
+        "userDefined": false
+      },
+      {
+        "text": "guys",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d86a63b-4e99-43be-81c1-dea7b42496e7",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "services",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " do you offer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

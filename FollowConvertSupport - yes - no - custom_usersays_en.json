@@ -1,0 +1,441 @@
+[
+  {
+    "id": "6f507da4-f6ad-455a-9256-afff392a72ba",
+    "data": [
+      {
+        "text": "Jeremy Kihumulo",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c2a5c70-01d6-41a8-a9a5-0a0cd9d0a5f4",
+    "data": [
+      {
+        "text": "Diana balaba",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54b1c944-4d52-4c8c-bd36-8c4b55fe0574",
+    "data": [
+      {
+        "text": "Sande",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      },
+      {
+        "text": " protazio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3108e599-2cee-40fd-bab1-47bd70574e2c",
+    "data": [
+      {
+        "text": "Solomon",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      },
+      {
+        "text": " Oshabahebwa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0dafe25c-0a91-43df-832f-9196355ea6ad",
+    "data": [
+      {
+        "text": "benard",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2dacb9d-3cdf-4c9f-b56f-34cf4785be06",
+    "data": [
+      {
+        "text": "0706125489",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3dc309b-7f19-4ec4-b6d2-e50c9ed12454",
+    "data": [
+      {
+        "text": "nakanjako ",
+        "userDefined": false
+      },
+      {
+        "text": "janette",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1db6abb-54ab-4fea-8c12-9514a25650f8",
+    "data": [
+      {
+        "text": "Collin",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      },
+      {
+        "text": " Heir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3c8fdcb-3be7-4d31-ac1f-2d5d022d77c2",
+    "data": [
+      {
+        "text": "Ainomujuni Collin",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a434d89f-17f3-4dd7-9888-1809f0f91b6c",
+    "data": [
+      {
+        "text": "0785154456",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5cce6372-1216-49b5-867c-d178c2467579",
+    "data": [
+      {
+        "text": "baryomunsi",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Deogratius",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31da0d02-279d-4247-9e9b-08c7d57a4e5b",
+    "data": [
+      {
+        "text": "Kyomuhendo",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eva",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "146fd31c-71a3-4e36-88f2-d895c4246bb0",
+    "data": [
+      {
+        "text": "Nkurukenzire ",
+        "userDefined": false
+      },
+      {
+        "text": "jonathan",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a342a42d-ec34-47c5-bffc-8b89b7119c18",
+    "data": [
+      {
+        "text": "john kakuru",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4d29d7f-e068-49e9-91f4-ad0d4d7b9976",
+    "data": [
+      {
+        "text": "timothy balaba",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8a8fc68-6a53-4438-a218-618c902d9359",
+    "data": [
+      {
+        "text": "Karen",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "0772861232",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "adaf5b83-a8bf-42de-8c23-eadb7d41302d",
+    "data": [
+      {
+        "text": "kast@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "751f4c13-4d7a-4be9-95c9-aa5b1cb3c661",
+    "data": [
+      {
+        "text": "balaba",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": ". email is ",
+        "userDefined": false
+      },
+      {
+        "text": "balaba@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d3ff255-3b19-43f6-987e-dd88e822d4d5",
+    "data": [
+      {
+        "text": "geargek12@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93804ee4-f197-4df6-a81c-7871ec043cca",
+    "data": [
+      {
+        "text": "stewartmuwan@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4bb8b4ca-f680-4720-9736-68dcc0d33abb",
+    "data": [
+      {
+        "text": "balaba timothy ",
+        "userDefined": false
+      },
+      {
+        "text": "tibalaba@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d6013c0-d664-46d2-9ddc-81da8529d1bc",
+    "data": [
+      {
+        "text": "balaba",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "timothy",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "0702054114",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b830a030-5deb-4c87-838f-2079c1ca5af5",
+    "data": [
+      {
+        "text": "Timothy",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "0702054114",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

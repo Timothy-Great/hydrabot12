@@ -1,0 +1,41 @@
+{
+  "id": "c3decdf0-0a0c-4879-8614-ffc7ec1e8176",
+  "parentId": "ba2ed6e1-31f7-454c-8a20-a8d8b94be4dc",
+  "rootParentId": "061af7f4-7bd2-461c-a8d4-74970fd2bfa5",
+  "name": "EmotionalLagTime - yes - no - custom - custom",
+  "auto": true,
+  "contexts": [
+    "EmotionalLagTime-yes-no-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "EmotionalLagTime.EmotionalLagTime-yes.EmotionalLagTime-yes-no.EmotionalLagTime-yes-no-custom.EmotionalLagTime-yes-no-custom-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Cool",
+            "Kawa",
+            "okay then"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

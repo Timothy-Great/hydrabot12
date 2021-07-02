@@ -1,0 +1,41 @@
+{
+  "id": "86fa28b2-b67c-4f77-988a-3e65739b6a06",
+  "parentId": "5e84d30d-f4ff-4c8c-8986-f1d5ee545958",
+  "rootParentId": "5e84d30d-f4ff-4c8c-8986-f1d5ee545958",
+  "name": "FollowConvertSupport - no",
+  "auto": true,
+  "contexts": [
+    "FollowConvertSupport-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FollowConvertSupport.FollowConvertSupport-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you so much for contacting us. Maybe next time! best regards",
+            "It\u0027s alright. Maybe next time. Thanks for reaching out."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

@@ -1,0 +1,101 @@
+{
+  "id": "41225c16-5cbf-4027-b2f5-dac5d6d452ca",
+  "parentId": "a262dc37-46d0-49c2-b809-c9e29567b2f8",
+  "rootParentId": "5e84d30d-f4ff-4c8c-8986-f1d5ee545958",
+  "name": "FollowConvertSupport - yes - yes - custom",
+  "auto": true,
+  "contexts": [
+    "FollowConvertSupport-yes-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FollowConvertSupport.FollowConvertSupport-yes.FollowConvertSupport-yes-yes.FollowConvertSupport-yes-yes-custom",
+      "affectedContexts": [
+        {
+          "name": "FollowConvertSupport-yes-yes-custom-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3ec5a7a0-15eb-4d5b-a6f0-fb03e092fd70",
+          "name": "phone",
+          "required": false,
+          "dataType": "@sys.phone-number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d8b6e694-d2be-4d63-a5fd-d85247f12238",
+          "name": "person",
+          "required": true,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "42485816-2d29-4573-9a63-376b7d8d5f76",
+          "name": "email",
+          "required": false,
+          "dataType": "@sys.email",
+          "value": "$email",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "07ae7eef-92f0-4a6c-addb-1f6e36560821",
+          "name": "phone-number",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "value": "$phone-number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "thank you so much. We shall surely get in touch as soon as possible."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

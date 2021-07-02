@@ -1,0 +1,92 @@
+{
+  "id": "d43e96c9-f2e3-43b7-87a9-34e7d937e63b",
+  "name": "UserAsksRequirements",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "65a53384-5013-4be3-bc83-4be18c65cddb",
+          "name": "interest",
+          "required": false,
+          "dataType": "@Interest",
+          "value": "$interest",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "88e66fbc-dcb0-4cee-b421-56690f7f5107",
+          "name": "interest1",
+          "required": false,
+          "dataType": "@Interest",
+          "value": "$interest1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "006b928d-adfb-41b8-a94c-ac13fd75035e",
+          "name": "interest2",
+          "required": false,
+          "dataType": "@Interest",
+          "value": "$interest2",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "212f3c57-300c-49ea-a2bc-94e24454414b",
+          "name": "REQUIREMENTS",
+          "required": true,
+          "dataType": "@REQUIREMENTS",
+          "value": "$REQUIREMENTS",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The requirements for setting up your Facebook chatbot mainly include: the business account details like Facebook page name, a copy of any identification you  may have. You should also be able to make one of our company staff as admin for your Facebook page in order to help you insert the chatbot plugins and APIs for the chatbot. You will also need to pay all the necessary charges for the service."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

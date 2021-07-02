@@ -1,0 +1,195 @@
+{
+  "id": "1daa3bf9-b913-47bf-a2a8-cbc7d5a8e3c7",
+  "parentId": "5f0907b0-64f7-4ec6-998b-7e2eaed55c13",
+  "rootParentId": "5e84d30d-f4ff-4c8c-8986-f1d5ee545958",
+  "name": "FollowConvertSupport - later - custom",
+  "auto": true,
+  "contexts": [
+    "FollowConvertSupport-later-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FollowConvertSupport.FollowConvertSupport-later.FollowConvertSupport-later-custom",
+      "affectedContexts": [
+        {
+          "name": "FollowConvertSupport-later-custom-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3d569a10-2179-4a70-94ad-3072328728da",
+          "name": "time",
+          "required": false,
+          "dataType": "@sys.duration",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4a2c57b6-14fc-495a-a39e-dd356a386259",
+          "name": "date",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ad83dc82-0d98-400f-8da5-21fd33f052b4",
+          "name": "date2",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "befcbab8-67df-4ed0-b96d-e301ceb5926d",
+          "name": "date3",
+          "required": false,
+          "dataType": "@sys.date",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "5996a340-6cbd-4051-9c20-689e5c309a47",
+          "name": "date-time",
+          "required": true,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d35d1fbb-b43f-46f8-be40-eb5a7346fc9b",
+          "name": "interest",
+          "required": false,
+          "dataType": "@Interest",
+          "value": "$interest",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7e707a62-f90a-456e-9061-efaf03688f75",
+          "name": "duration",
+          "required": false,
+          "dataType": "@sys.duration",
+          "value": "$duration",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "09f23136-da8e-4571-ab26-f48a05f54cf3",
+          "name": "date-period",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "value": "$date-period",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c6068e2e-c958-461b-a987-a8cf93f22c7f",
+          "name": "name",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a419d8d0-f2cf-4315-aad2-de6308109e45",
+          "name": "name2",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "013692b2-7c6e-46ab-9ecb-e8b8bcd674fc",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alright then. We shall surely be in touch. thank you so much for contacting us.",
+            "Thank you so much. We shall be in touch then. Best regards."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

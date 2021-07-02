@@ -1,0 +1,44 @@
+{
+  "id": "111cb522-d9fd-4f12-8117-ec46badfb51e",
+  "parentId": "5e84d30d-f4ff-4c8c-8986-f1d5ee545958",
+  "rootParentId": "5e84d30d-f4ff-4c8c-8986-f1d5ee545958",
+  "name": "FollowConvertSupport - yes",
+  "auto": true,
+  "contexts": [
+    "FollowConvertSupport-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FollowConvertSupport.FollowConvertSupport-yes",
+      "affectedContexts": [
+        {
+          "name": "FollowConvertSupport-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alright. Our basic chatbot service goes for UGX 26,500 expiring in 12 months. Am hoping this isn\u0027t a problem for you?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

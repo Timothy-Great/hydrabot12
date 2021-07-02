@@ -1,0 +1,44 @@
+{
+  "id": "11e609f2-10b4-408f-b6f5-4afafbc40980",
+  "parentId": "649296a5-f2ba-4629-ae24-9cea13638b5f",
+  "rootParentId": "649296a5-f2ba-4629-ae24-9cea13638b5f",
+  "name": "UserInterested - later",
+  "auto": true,
+  "contexts": [
+    "UserInterested-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UserInterested.UserInterested-later",
+      "affectedContexts": [
+        {
+          "name": "UserInterested-later-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay. Could you kindly provide us with your full name and possibly a future date we can reach you as regards a chat bot for your business?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

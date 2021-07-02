@@ -1,0 +1,542 @@
+[
+  {
+    "id": "c1db8425-b917-4eee-805a-346bcf550276",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@Interest",
+        "alias": "interest1",
+        "userDefined": false
+      },
+      {
+        "text": " i talk to  a human being",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02363a6a-9d0a-4ebe-b2b6-e6d290f811ee",
+    "data": [
+      {
+        "text": "may i talk to a human",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d472e1f-44c0-49f4-b892-7d375a73ea5b",
+    "data": [
+      {
+        "text": "may i speak to a human",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b44bee7f-c855-4204-a9d7-678515aa1f05",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " i speak to a human",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95e6b203-1688-46e6-abc2-e4a1fb3c8996",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " i speak to a ",
+        "userDefined": false
+      },
+      {
+        "text": "human",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " being",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77335f1a-128f-4831-a69a-60d205578b48",
+    "data": [
+      {
+        "text": "I",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027d",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " like to speak to someone directly",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8937bed-9ff3-4aae-998d-552fb56f73b0",
+    "data": [
+      {
+        "text": "May i speak to someone directly",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "547f452c-0a84-4dfc-afb4-3a92aa5f7a17",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " i speak to someone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a101502-9046-4006-8b8f-a87791b0adce",
+    "data": [
+      {
+        "text": "Is anyone available to talk",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11d5c386-0d3f-4d7c-a09e-c3051423af60",
+    "data": [
+      {
+        "text": "may I talk to someone",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f19ca51a-ff7a-4114-9900-de575726cb33",
+    "data": [
+      {
+        "text": "May I speak to someone",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ed57d18-6cdf-4b32-aa4b-727ddbff3b25",
+    "data": [
+      {
+        "text": "Is there anyone i ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " talk to",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f609ae9e-28ea-4136-936c-3bc5b59c8d2e",
+    "data": [
+      {
+        "text": "Can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I speak to someone",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1a543d2-4b85-4207-8a3b-994b1385ee7f",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I speak to a person ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "meta": "@Interest",
+        "alias": "interest1",
+        "userDefined": false
+      },
+      {
+        "text": " more ",
+        "userDefined": false
+      },
+      {
+        "text": "information",
+        "meta": "@OurOffice",
+        "alias": "ouroffice",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdc8e265-c152-460b-aff9-9b998f59bb76",
+    "data": [
+      {
+        "text": "Can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I speak to someone directly",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b44f80b9-71ac-4d3e-ab8b-1a120c74e934",
+    "data": [
+      {
+        "text": "What",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " are your ",
+        "userDefined": false
+      },
+      {
+        "text": "contacts",
+        "meta": "@OurOffice",
+        "alias": "ouroffice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36b4b175-fd10-4706-af8b-8b04e3687d4a",
+    "data": [
+      {
+        "text": "What",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " is your ",
+        "userDefined": false
+      },
+      {
+        "text": "contact",
+        "meta": "@OurOffice",
+        "alias": "ouroffice",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae865ddc-bc24-413a-b91e-d316c3045bb0",
+    "data": [
+      {
+        "text": "What",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " is your ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@OurOffice",
+        "alias": "ouroffice",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "821fdc98-aed6-48df-bbd9-3266815fc50f",
+    "data": [
+      {
+        "text": "What",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " is your ",
+        "userDefined": false
+      },
+      {
+        "text": "WhatsApp number",
+        "meta": "@OurOffice",
+        "alias": "ouroffice",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04485932-23be-49b5-9d93-87931c1d3ae7",
+    "data": [
+      {
+        "text": "What",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " is your ",
+        "userDefined": false
+      },
+      {
+        "text": "telephone number",
+        "meta": "@OurOffice",
+        "alias": "ouroffice",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f38d772d-0d8f-4396-a246-36fb1a5447c5",
+    "data": [
+      {
+        "text": "What",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " is your ",
+        "userDefined": false
+      },
+      {
+        "text": "phone contact",
+        "meta": "@OurOffice",
+        "alias": "ouroffice",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2fb82154-d23c-4279-baa3-4b53f309114c",
+    "data": [
+      {
+        "text": "how ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I reach you",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

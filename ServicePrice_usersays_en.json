@@ -1,0 +1,598 @@
+[
+  {
+    "id": "73975f00-8219-41e6-a42a-71578a1a5819",
+    "data": [
+      {
+        "text": "cheap",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7647d6a4-0289-4804-900f-0d6a95a03d67",
+    "data": [
+      {
+        "text": "Are ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " cheap",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83f6e4a6-b886-44ac-a3cb-7a5972bfdbf1",
+    "data": [
+      {
+        "text": "Your rates",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24f6ebc6-5005-454c-8aaf-89815946c804",
+    "data": [
+      {
+        "text": "And rates",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce94990b-e410-4184-9d9f-3ad6ac2b38ee",
+    "data": [
+      {
+        "text": "Rates",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e8ab989-24bf-4eb6-aa82-99b0f27f6aca",
+    "data": [
+      {
+        "text": "How much",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd3cc44f-302c-44d0-8dde-bad30caf3f4c",
+    "data": [
+      {
+        "text": "Cost",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0084a3bf-04dd-4326-9bce-3061add9f8f3",
+    "data": [
+      {
+        "text": "Price",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41e27a1b-4065-42ca-ba3d-1d383e5d0743",
+    "data": [
+      {
+        "text": "How affordable are ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8814ecbe-03cb-4c0c-84e9-80d7152b88c2",
+    "data": [
+      {
+        "text": "Are ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " affordable",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e45fa5a-072a-45d0-93a5-c86297b23ea2",
+    "data": [
+      {
+        "text": "how expensive are ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2e2c363-4ddd-4bbc-97ea-8c669507ad07",
+    "data": [
+      {
+        "text": "Are ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " expensive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2850200-44be-493e-be89-2061307505ea",
+    "data": [
+      {
+        "text": "This looks expensive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afa99a64-7440-42c1-ac0b-003e7bd0a8df",
+    "data": [
+      {
+        "text": "Sounds expensive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a363251-ba68-4d13-8a3d-e3b9f79244a9",
+    "data": [
+      {
+        "text": "how are your rates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad2a97a4-e322-46b1-b50b-82412da576dd",
+    "data": [
+      {
+        "text": "What",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " are your rates",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33bfd0a5-6dc1-47b1-baad-e65311df93ab",
+    "data": [
+      {
+        "text": "What",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " are the charges",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4b33747-fd11-4851-bc5a-adb7ec98e40f",
+    "data": [
+      {
+        "text": "how much do ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " charge",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6cf5dfe4-8e0e-405f-8cce-a224accab509",
+    "data": [
+      {
+        "text": "What",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " is the cost of a chat bot",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b039f45-1d44-4855-9d3a-011d12d52d80",
+    "data": [
+      {
+        "text": "What",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " is the price of a chat bot",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c9463fa-16c5-4f00-94f5-c5e81d88784c",
+    "data": [
+      {
+        "text": "What",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " is the price",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "defef18e-55d2-450f-9dfd-fe24ba46022f",
+    "data": [
+      {
+        "text": "How much is it",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbdeebbd-b5ab-4601-8d6b-f1e7edbfc315",
+    "data": [
+      {
+        "text": "how much is subscription",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f79d6107-3b00-4fa2-bc1b-73d00bba3402",
+    "data": [
+      {
+        "text": "How much are your ",
+        "userDefined": false
+      },
+      {
+        "text": "services",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3eb564bf-f9cb-4c30-b021-c13d7613cceb",
+    "data": [
+      {
+        "text": "How much is a chat bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ccea2fd-03dd-478b-8a3e-7ffdf836de81",
+    "data": [
+      {
+        "text": "How much would it cost me",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1526c59-96e9-4416-bde6-d2a484604e32",
+    "data": [
+      {
+        "text": "How much is the product",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d39cb4cf-ccc5-4b6a-88f2-ccce20591b3e",
+    "data": [
+      {
+        "text": "How much is this ",
+        "userDefined": false
+      },
+      {
+        "text": "service",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

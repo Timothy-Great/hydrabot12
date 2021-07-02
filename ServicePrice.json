@@ -1,0 +1,60 @@
+{
+  "id": "8b1a84bf-ce07-41dc-97ad-1d9e36b3a2f4",
+  "name": "ServicePrice",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fe01b018-7af8-4cd5-a33c-2dacb8a0883e",
+          "name": "interest",
+          "required": false,
+          "dataType": "@Interest",
+          "value": "$interest",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our rates really depend. We can design a basic chat bot for your business starting from UGX 26,500 but fees may increase depending on how much you need in the chat bot."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The basic package includes: Sales conversion and customer service. Other services would require an extra fee as may depend. We recommend to begin with the basic package such that you understand fully the chat bot needs for your business to avoid unnecessary expenses."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

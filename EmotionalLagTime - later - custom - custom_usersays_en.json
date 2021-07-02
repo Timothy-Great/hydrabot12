@@ -1,0 +1,225 @@
+[
+  {
+    "id": "d6af7f76-4044-41d3-8dcd-4d81d2816882",
+    "data": [
+      {
+        "text": "thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "727a88aa-293f-49d2-ab51-260f88c7552d",
+    "data": [
+      {
+        "text": "thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "898fde1d-a02b-4d2f-8f16-d36809ae4229",
+    "data": [
+      {
+        "text": "kk",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e18618c5-89c8-41aa-9d36-0205a16ab83e",
+    "data": [
+      {
+        "text": "k",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5f71464-7bea-4c3f-bec8-9f01d190ade4",
+    "data": [
+      {
+        "text": "Ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ae18365-6146-4dd9-b9a9-6892150d9207",
+    "data": [
+      {
+        "text": "sounds really great",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c3f50bb-f774-470f-8211-ddba650c5e84",
+    "data": [
+      {
+        "text": "sounds great",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bbfd2655-c73c-47f3-99c0-a3c32fdeb466",
+    "data": [
+      {
+        "text": "Sounds really good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8de84cc-2083-4620-ab54-112660badfe1",
+    "data": [
+      {
+        "text": "Sounds good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c02d11c-e0a5-4aa6-914d-9f0c9153fe19",
+    "data": [
+      {
+        "text": "great",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e0d3503-88c9-40d1-bcd2-c80193bacc5e",
+    "data": [
+      {
+        "text": "kawa",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6e4479f-bce0-4b9a-9743-1d9d3d527d72",
+    "data": [
+      {
+        "text": "Cool",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb33d057-df8c-4571-9c92-a74e00165dd2",
+    "data": [
+      {
+        "text": "Alright then",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a2da0aa-9190-4c7f-a4e2-0814a9149bf9",
+    "data": [
+      {
+        "text": "Alright",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82e5870a-c76f-42c9-8353-631e57ce1c10",
+    "data": [
+      {
+        "text": "Okay then",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8be28c6-b5f9-4a39-98bd-5c8631717225",
+    "data": [
+      {
+        "text": "okay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b4df696-fd4b-494d-8488-333a24f6e8b7",
+    "data": [
+      {
+        "text": "okay sir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

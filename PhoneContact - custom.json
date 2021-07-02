@@ -1,0 +1,101 @@
+{
+  "id": "bf06b34b-ee8a-4d99-9f5f-e380ec0c92d9",
+  "parentId": "ba8763eb-c009-4bd2-9167-8a8f0885f6ad",
+  "rootParentId": "ba8763eb-c009-4bd2-9167-8a8f0885f6ad",
+  "name": "PhoneContact - custom",
+  "auto": true,
+  "contexts": [
+    "PhoneContact-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PhoneContact.PhoneContact-custom",
+      "affectedContexts": [
+        {
+          "name": "PhoneContact-custom-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "49397690-bf77-488a-8e2d-b903dfbd9828",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.phone-number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b048c049-1488-471e-890e-f6b5781730ab",
+          "name": "e-mail",
+          "required": false,
+          "dataType": "@sys.email",
+          "value": "$e-mail",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1846ab44-d96b-431f-8b41-e95f87d85a0b",
+          "name": "name",
+          "required": true,
+          "dataType": "@sys.person",
+          "value": "$name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c74c49e6-91b0-4730-bbd5-08fab315e41b",
+          "name": "phone-number",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "value": "$phone-number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "thank You so much. we\u0027ll be in touch"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

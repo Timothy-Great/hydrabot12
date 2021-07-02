@@ -1,0 +1,538 @@
+[
+  {
+    "id": "896955d2-d2e0-47eb-8d5f-90518c195fa9",
+    "data": [
+      {
+        "text": "Am interested ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " a bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "232aa7ac-db4a-4b79-afe0-a7d5b8796fca",
+    "data": [
+      {
+        "text": "Am interested ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " a chat bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56ae2b35-8ee0-4957-b1b6-e9c4ebd2e9a1",
+    "data": [
+      {
+        "text": "Am interested",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "165b74f4-28b5-45c1-8d05-46210c391b45",
+    "data": [
+      {
+        "text": "i want",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " to register ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "service",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4807186-1378-45ff-8268-d4a8b1fd0612",
+    "data": [
+      {
+        "text": "i want",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "register",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f0e8bac-b38a-48da-99fe-0c30ddae05a6",
+    "data": [
+      {
+        "text": "let\u0027s start",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d33edbe2-2bdd-42c2-8263-2ddbed1aaa2e",
+    "data": [
+      {
+        "text": "let\u0027s begin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb2d295a-a9a3-4cd2-93bf-92f10be97e08",
+    "data": [
+      {
+        "text": "count me ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "788c0d20-345f-454b-b4bb-bddd6e424bff",
+    "data": [
+      {
+        "text": "Am ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25e77b44-8806-4b55-8aa8-f1b585134838",
+    "data": [
+      {
+        "text": "how can i start",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea8611f3-c1b7-42d4-8adf-94d28639b569",
+    "data": [
+      {
+        "text": "How do I start",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "036fc008-678d-4e35-a3ee-7d04c2676bf5",
+    "data": [
+      {
+        "text": "how can i get the service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e8af240-d66e-46cf-8cd9-6073f6515e31",
+    "data": [
+      {
+        "text": "How can i get this ",
+        "userDefined": false
+      },
+      {
+        "text": "service",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "232b2d59-d59f-46a5-acd0-a65fc9ce200c",
+    "data": [
+      {
+        "text": "what",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " do i need to do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ab2d5df-cac9-41f6-b121-df14ef6910bd",
+    "data": [
+      {
+        "text": "how do we ",
+        "userDefined": false
+      },
+      {
+        "text": "register",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "990ce2df-178f-44f2-9a0c-9f558359ca28",
+    "data": [
+      {
+        "text": "How do we start",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e0e1217-9e69-4b25-9d05-cdf1ec9fa207",
+    "data": [
+      {
+        "text": "How do I register to ",
+        "userDefined": false
+      },
+      {
+        "text": "start",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7874ce7c-7361-4ef7-93ef-f48d22fd601f",
+    "data": [
+      {
+        "text": "Am in",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " Absolutley",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "882b55c0-839b-4eb5-b136-01f88c026e76",
+    "data": [
+      {
+        "text": "Sure let\u0027s do this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d47d7db-a655-4520-97fc-3186f8921ef1",
+    "data": [
+      {
+        "text": "absolutely",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "196ac80a-5449-4d24-afe2-d7df6a53874d",
+    "data": [
+      {
+        "text": "Sounds great",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d63cbb7-3396-4853-b50e-90b353e31050",
+    "data": [
+      {
+        "text": "Sounds good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b572964-4c4d-4a1a-b9ea-8b897c32493e",
+    "data": [
+      {
+        "text": "Let\u0027s do ",
+        "userDefined": false
+      },
+      {
+        "text": "business",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d453ed7-2b1f-4d07-b884-5fce2b757d9a",
+    "data": [
+      {
+        "text": "let\u0027s work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "34c24475-15ca-4ba8-9c3c-e759c8bc37d4",
+    "data": [
+      {
+        "text": "Interested",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29c18e70-ccad-426c-baa8-9ddc7125f365",
+    "data": [
+      {
+        "text": "let\u0027s do it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a636dbd-a4a5-4612-9503-a532ccecbfa4",
+    "data": [
+      {
+        "text": "Let\u0027s do this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5af8336e-b1c2-4e36-a806-b6ded9133c9f",
+    "data": [
+      {
+        "text": "How do I join this",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56b336bc-41f5-4224-aee5-e272a62a4220",
+    "data": [
+      {
+        "text": "how do I subscribe to this",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73f64f5e-2923-439e-ade0-9b92d0c3da9d",
+    "data": [
+      {
+        "text": "Am interested ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@Interest",
+        "alias": "interest",
+        "userDefined": false
+      },
+      {
+        "text": " this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

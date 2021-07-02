@@ -1,0 +1,44 @@
+{
+  "id": "4f3e1ac8-4067-4177-add8-6f8663236b57",
+  "parentId": "649296a5-f2ba-4629-ae24-9cea13638b5f",
+  "rootParentId": "649296a5-f2ba-4629-ae24-9cea13638b5f",
+  "name": "UserInterested - yes",
+  "auto": true,
+  "contexts": [
+    "UserInterested-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UserInterested.UserInterested-yes",
+      "affectedContexts": [
+        {
+          "name": "UserInterested-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Awesome! Kindly give me your full name such that our staff can reach out to you for more details on how to proceed."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

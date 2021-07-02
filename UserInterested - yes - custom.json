@@ -1,0 +1,116 @@
+{
+  "id": "2bd8e114-3e48-45a4-9877-3079bd1e4a1f",
+  "parentId": "4f3e1ac8-4067-4177-add8-6f8663236b57",
+  "rootParentId": "649296a5-f2ba-4629-ae24-9cea13638b5f",
+  "name": "UserInterested - yes - custom",
+  "auto": true,
+  "contexts": [
+    "UserInterested-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UserInterested.UserInterested-yes.UserInterested-yes-custom",
+      "affectedContexts": [
+        {
+          "name": "UserInterested-yes-custom-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "63ecc97d-1564-4ec5-9623-d825d21fb980",
+          "name": "person",
+          "required": true,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "bab7555c-51c8-48fe-9342-1e23f0359152",
+          "name": "ouroffice",
+          "required": false,
+          "dataType": "@OurOffice",
+          "value": "$ouroffice",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "9335cbd9-2b20-4f72-8e2b-0dafe9f95855",
+          "name": "phone-number",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "value": "$phone-number",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "aa39d98d-7c4c-449c-a03e-e085a6c099ed",
+          "name": "Contacts",
+          "required": false,
+          "dataType": "@sys.email",
+          "value": "$email",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "9a075c15-0941-4c81-a4c0-793fe9ce2cd7",
+          "name": "email",
+          "required": false,
+          "dataType": "@sys.email",
+          "value": "$email",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "thank you so much. we\u0027ll be in touch"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

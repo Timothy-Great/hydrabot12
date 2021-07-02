@@ -1,0 +1,50 @@
+{
+  "id": "229580e3-893e-45fc-ac23-2e74b945268a",
+  "name": "Chatbotadvantages",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e9bc9155-c911-4dd3-99a4-f2835d5acb52",
+          "name": "interest",
+          "required": false,
+          "dataType": "@Interest",
+          "value": "$interest",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The benefits of a chat bot are enormous  to your business but first, you won\u0027t have to be online all the time. Also, you don\u0027t need to keep talking to all customers. Let the chat bot do the talking as you simply do the money collecting."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

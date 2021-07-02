@@ -1,0 +1,42 @@
+{
+  "id": "d50cdb28-baa4-4c7a-9a35-b7a170e349b7",
+  "parentId": "5871d258-08ae-474f-8ec4-cd05ca86eb7e",
+  "rootParentId": "649296a5-f2ba-4629-ae24-9cea13638b5f",
+  "name": "UserInterested - later - custom - custom",
+  "auto": true,
+  "contexts": [
+    "UserInterested-later-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UserInterested.UserInterested-later.UserInterested-later-custom.UserInterested-later-custom-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "cool",
+            "okay then",
+            "ok"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

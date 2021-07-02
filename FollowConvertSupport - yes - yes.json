@@ -1,0 +1,97 @@
+{
+  "id": "a262dc37-46d0-49c2-b809-c9e29567b2f8",
+  "parentId": "111cb522-d9fd-4f12-8117-ec46badfb51e",
+  "rootParentId": "5e84d30d-f4ff-4c8c-8986-f1d5ee545958",
+  "name": "FollowConvertSupport - yes - yes",
+  "auto": true,
+  "contexts": [
+    "FollowConvertSupport-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FollowConvertSupport.FollowConvertSupport-yes.FollowConvertSupport-yes-yes",
+      "affectedContexts": [
+        {
+          "name": "FollowConvertSupport-yes-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c1790f01-0b96-4a39-8367-211606330ca0",
+          "name": "phone",
+          "required": false,
+          "dataType": "@sys.phone-number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2262272c-2844-4646-9a44-12a4f1165666",
+          "name": "email",
+          "required": false,
+          "dataType": "@sys.email",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "26c1765b-4ba7-4ded-b5b3-eea7353e0013",
+          "name": "name",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e3f087c5-3b98-4e17-958b-3c3e27ed8fc2",
+          "name": "name2",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alright then. thank you so much. Kindly give us your full name for one of our staff to reach you for more information on how to proceed."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

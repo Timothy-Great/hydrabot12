@@ -1,0 +1,119 @@
+[
+  {
+    "id": "4413644d-756e-40cd-bcf0-bf9fbba96bef",
+    "data": [
+      {
+        "text": "Where are you at?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9fa6530-5a15-4c85-a4f3-491eadc6a34e",
+    "data": [
+      {
+        "text": "where do I find you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b882b8da-c526-4af7-bdee-11deb74bc81c",
+    "data": [
+      {
+        "text": "Where are you situated?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50db6d91-5a94-407b-8759-43a05a6cf271",
+    "data": [
+      {
+        "text": "Where are you people?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f427bb49-628c-43ec-a331-041a54c346c0",
+    "data": [
+      {
+        "text": "How do I find your offices?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ce7b1f7-0637-4daf-a763-72c4ef4e61a7",
+    "data": [
+      {
+        "text": "how do I find you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a47034c-f90e-4bad-8438-7c06bc7c3944",
+    "data": [
+      {
+        "text": "Where can I find you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c2132ab-3cfa-46aa-adcb-2cc4553b68a8",
+    "data": [
+      {
+        "text": "Where are your offices?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1741e05a-5fd2-456f-8414-64935daa8b20",
+    "data": [
+      {
+        "text": "Where are you located?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

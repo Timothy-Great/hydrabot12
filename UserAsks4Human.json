@@ -1,0 +1,69 @@
+{
+  "id": "ba8763eb-c009-4bd2-9167-8a8f0885f6ad",
+  "name": "UserAsks4Human",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "PhoneContact-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c4f93ac7-2784-4c93-bb91-ec339274e886",
+          "name": "ouroffice",
+          "required": false,
+          "dataType": "@OurOffice",
+          "value": "$ouroffice",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "806a813a-b946-4c3a-bc41-ac0f3841796e",
+          "name": "interest1",
+          "required": false,
+          "dataType": "@Interest",
+          "value": "$interest1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yes sure you can. Kindly give me your full name for one of our staff to reach you as soon as possible."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,329 @@
+[
+  {
+    "id": "870ac683-b70d-4b2e-aac8-aef4cb839d3d",
+    "data": [
+      {
+        "text": "0785875451",
+        "meta": "@sys.phone-number",
+        "alias": "phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d6cc05d-cfcd-4ab3-99e5-2e64f8ff725e",
+    "data": [
+      {
+        "text": "0774748212",
+        "meta": "@sys.phone-number",
+        "alias": "phone",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08827631-feb2-4c1f-9eaf-70a5d63804c1",
+    "data": [
+      {
+        "text": "timothy",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": ". on ",
+        "userDefined": false
+      },
+      {
+        "text": "17th feb",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": ". ",
+        "userDefined": false
+      },
+      {
+        "text": "0702054114",
+        "meta": "@sys.phone-number",
+        "alias": "phone",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06df0a51-c755-4c5a-bf86-ccfa92122480",
+    "data": [
+      {
+        "text": "timothy balaba",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": ". On ",
+        "userDefined": false
+      },
+      {
+        "text": "18th March",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0be43ea0-a470-4079-8cf9-b68cc233117a",
+    "data": [
+      {
+        "text": "Am ",
+        "userDefined": false
+      },
+      {
+        "text": "calvin",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " and you call me on ",
+        "userDefined": false
+      },
+      {
+        "text": "friday",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9658a014-9cbe-43ac-b648-5d6ee8b84bb3",
+    "data": [
+      {
+        "text": "Timothy",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " you can reach me on ",
+        "userDefined": false
+      },
+      {
+        "text": "saturday",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9258687-518d-48ec-a1aa-c3e18e04baab",
+    "data": [
+      {
+        "text": "Timothy",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f2ac89d-a4e8-4088-97f8-785cb22f9356",
+    "data": [
+      {
+        "text": "On ",
+        "userDefined": false
+      },
+      {
+        "text": "18th",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "March",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "5pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aaf9f337-4837-48eb-bc4d-78bad101f9ca",
+    "data": [
+      {
+        "text": "on ",
+        "userDefined": false
+      },
+      {
+        "text": "17th",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "April",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0d73ac8-aecc-49f9-aa22-ee316cbcf6ae",
+    "data": [
+      {
+        "text": "today noon",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3709a4b7-2212-4581-b5ad-70065c84a363",
+    "data": [
+      {
+        "text": "tomorrow evening",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b670b65-d4f3-4599-95ed-571cff10c1f3",
+    "data": [
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at midday",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "169bd84b-d9ed-4b58-a738-b5bef7c07b44",
+    "data": [
+      {
+        "text": "at 5pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5584a73f-1578-4d18-88d9-5649b1651867",
+    "data": [
+      {
+        "text": "In an hour",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b2952bf-2e8b-4210-9b8e-2485d4c6cd8c",
+    "data": [
+      {
+        "text": "at 2pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "id": "e7c52c29-3174-4b5b-9a75-f31d77461a21",
+  "parentId": "061af7f4-7bd2-461c-a8d4-74970fd2bfa5",
+  "rootParentId": "061af7f4-7bd2-461c-a8d4-74970fd2bfa5",
+  "name": "EmotionalLagTime - yes",
+  "auto": true,
+  "contexts": [
+    "EmotionalLagTime-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "EmotionalLagTime.EmotionalLagTime-yes",
+      "affectedContexts": [
+        {
+          "name": "EmotionalLagTime-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alright. Our basic chatbot service goes for UGX 26,500 per year. Note that the service expires in 12 months. Am hoping this isn\u0027t a problem for you?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

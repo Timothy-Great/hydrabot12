@@ -1,0 +1,44 @@
+{
+  "id": "5f0907b0-64f7-4ec6-998b-7e2eaed55c13",
+  "parentId": "5e84d30d-f4ff-4c8c-8986-f1d5ee545958",
+  "rootParentId": "5e84d30d-f4ff-4c8c-8986-f1d5ee545958",
+  "name": "FollowConvertSupport - later",
+  "auto": true,
+  "contexts": [
+    "FollowConvertSupport-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FollowConvertSupport.FollowConvertSupport-later",
+      "affectedContexts": [
+        {
+          "name": "FollowConvertSupport-later-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alright, thank you so much for contacting us. May I know your full name and a time in mind we can follow up on you as regards this service?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

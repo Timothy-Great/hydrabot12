@@ -1,0 +1,41 @@
+{
+  "id": "ec4040b5-80e3-4a59-ad9e-25446e476cb8",
+  "parentId": "bf06b34b-ee8a-4d99-9f5f-e380ec0c92d9",
+  "rootParentId": "ba8763eb-c009-4bd2-9167-8a8f0885f6ad",
+  "name": "PhoneContact - custom - custom",
+  "auto": true,
+  "contexts": [
+    "PhoneContact-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PhoneContact.PhoneContact-custom.PhoneContact-custom-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "okay then",
+            "cool"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

@@ -1,0 +1,91 @@
+{
+  "id": "df9be870-17c4-4932-bc84-3df9c12a6d6a",
+  "name": "UserAsksFAQs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ad32ac9a-1b0e-44e3-8761-5fc60e0b92b2",
+          "name": "FAQs",
+          "required": false,
+          "dataType": "@OtherServices",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b99f5822-da30-4dc1-ba70-c46f0f3d156f",
+          "name": "interest",
+          "required": false,
+          "dataType": "@Interest",
+          "value": "$interest",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b55dbd21-c4eb-40fd-ad07-d5c38dfe50a7",
+          "name": "otherservices",
+          "required": false,
+          "dataType": "@OtherServices",
+          "value": "$otherservices",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "90fcb0f3-0e5f-46f9-8159-aae6e7d5c525",
+          "name": "interest1",
+          "required": false,
+          "dataType": "@Interest",
+          "value": "$interest1",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "chat bots can be customized to almost infinite applications. But we recommend you begin with a basic Facebook chat bot in order to better understand your business needs, enhance the chat bot performance fitting your business and reduce unnecessary spending. Other chat bot applications are a bit expensive!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

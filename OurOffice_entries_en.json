@@ -1,0 +1,25 @@
+[
+  {
+    "value": "Contact",
+    "synonyms": [
+      "Contact",
+      "phone number",
+      "telephone number",
+      "whatsApp number",
+      "WhatsApp",
+      "contact information",
+      "number"
+    ]
+  },
+  {
+    "value": "Location",
+    "synonyms": [
+      "Location",
+      "found",
+      "find",
+      "situated",
+      "premises",
+      "offices"
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "value": "chatbot servces",
+    "synonyms": [
+      "chatbot servces",
+      "service"
+    ]
+  },
+  {
+    "value": "lead follow up",
+    "synonyms": [
+      "lead follow up",
+      "Follow up",
+      "Following up customers",
+      "Customer follow up",
+      "client follow up",
+      "prospecting",
+      "prospect follow up"
+    ]
+  },
+  {
+    "value": "sales conversion",
+    "synonyms": [
+      "sales conversion",
+      "sales",
+      "conversion",
+      "converting leads"
+    ]
+  },
+  {
+    "value": "Customer Support",
+    "synonyms": [
+      "Customer Support",
+      "support services",
+      "help",
+      "support",
+      "customer help"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "5a1a5335-80f8-4ca1-8a51-4c36576c2a07",
+  "name": "OurOffice",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

@@ -1,0 +1,416 @@
+{
+  "id": "a2c3f382-063a-4682-8a5c-9f50ff59296c",
+  "name": "BASICDIAGNOSIS",
+  "auto": true,
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "conditionalResponses": [],
+  "context": [],
+  "contexts": [],
+  "endInteraction": false,
+  "events": [],
+  "fallbackIntent": false,
+  "liveAgentHandoff": false,
+  "parentId": null,
+  "followUpIntents": [],
+  "priority": 500000,
+  "responses": [
+    {
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "BASICDIAGNOSIS-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "noInputPromptMessages": [],
+          "noMatchPromptMessages": [],
+          "promptMessages": [],
+          "defaultValue": "",
+          "name": "date-time",
+          "dataType": "@sys.date-time",
+          "isList": false,
+          "required": false,
+          "prompts": [],
+          "value": "$date-time",
+          "outputDialogContexts": []
+        },
+        {
+          "noInputPromptMessages": [],
+          "noMatchPromptMessages": [],
+          "promptMessages": [],
+          "defaultValue": "",
+          "name": "COMMONDISEASES",
+          "dataType": "@COMMONDISEASES",
+          "isList": false,
+          "required": false,
+          "prompts": [],
+          "value": "$COMMONDISEASES",
+          "outputDialogContexts": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "messages": [
+        {
+          "type": "message",
+          "condition": "",
+          "speech": [
+            "May I please know for how long you've had this discomfort?",
+            "Has this discomfort been ongoing, sudden, or is it recent?"
+          ]
+        }
+      ],
+      "resetContexts": false
+    }
+  ],
+  "rootParentId": null,
+  "templates": [],
+  "userSays": [
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "I need help",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "ee068964-87e4-4624-a5d6-98c7b3e76548",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "Am not feeling well",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "f15d1a68-43a0-41f4-9d61-ca758b4d462d",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "I have ",
+          "userDefined": false
+        },
+        {
+          "text": "fever",
+          "userDefined": false,
+          "alias": "COMMONDISEASES",
+          "meta": "@COMMONDISEASES"
+        }
+      ],
+      "count": 0,
+      "id": "dbff4168-2337-49cd-8e28-31a961fae90d",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "i have ",
+          "userDefined": false
+        },
+        {
+          "text": "diarrhoea",
+          "userDefined": false,
+          "alias": "COMMONDISEASES",
+          "meta": "@COMMONDISEASES"
+        }
+      ],
+      "count": 0,
+      "id": "6fe806c4-6bb4-4433-8834-dc77718e6bf6",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "I have a ",
+          "userDefined": false
+        },
+        {
+          "text": "headache",
+          "userDefined": true,
+          "alias": "COMMONDISEASES",
+          "meta": "@COMMONDISEASES"
+        }
+      ],
+      "count": 0,
+      "id": "a8181c70-d0c1-4531-b7af-a20fbee6965b",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "I have a ",
+          "userDefined": false
+        },
+        {
+          "text": "stomach ache",
+          "userDefined": true,
+          "alias": "COMMONDISEASES",
+          "meta": "@COMMONDISEASES"
+        }
+      ],
+      "count": 0,
+      "id": "6e47ff23-7436-43e7-9bc0-72a3a2b9cb9b",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "Am ",
+          "userDefined": false
+        },
+        {
+          "text": "vomiting",
+          "userDefined": true,
+          "alias": "COMMONDISEASES",
+          "meta": "@COMMONDISEASES"
+        }
+      ],
+      "count": 0,
+      "id": "1c77eb7b-f15e-4c18-b9d3-727758c12553",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "I have a ",
+          "userDefined": false
+        },
+        {
+          "text": "cold",
+          "userDefined": true,
+          "alias": "COMMONDISEASES",
+          "meta": "@COMMONDISEASES"
+        }
+      ],
+      "count": 0,
+      "id": "86cc2127-a417-4f01-85d8-5e0dd819071b",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "I have ",
+          "userDefined": false
+        },
+        {
+          "text": "flu",
+          "userDefined": true,
+          "alias": "COMMONDISEASES",
+          "meta": "@COMMONDISEASES"
+        }
+      ],
+      "count": 0,
+      "id": "73b368f8-206d-4b89-b9ca-580caa08b47b",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "I have a ",
+          "userDefined": false
+        },
+        {
+          "text": "fever",
+          "userDefined": true,
+          "alias": "COMMONDISEASES",
+          "meta": "@COMMONDISEASES"
+        }
+      ],
+      "count": 0,
+      "id": "bd814c4c-f8b3-483d-8d66-ad41ac382643",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "I have ",
+          "userDefined": false
+        },
+        {
+          "text": "diarrhea",
+          "userDefined": true,
+          "alias": "COMMONDISEASES",
+          "meta": "@COMMONDISEASES"
+        }
+      ],
+      "count": 0,
+      "id": "a21fda8a-7254-489c-84a8-c373af04a12d",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "What is happening to me?",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "9973f8af-fe89-4908-ab63-bfd3b392940e",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "I don't know what is wrong with me ",
+          "userDefined": false
+        },
+        {
+          "text": "today",
+          "userDefined": false,
+          "alias": "date-time",
+          "meta": "@sys.date-time"
+        }
+      ],
+      "count": 0,
+      "id": "450c93ac-eeca-4af7-9e29-19e052b4ee4b",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "Am sickly",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "85ab81a5-5d1d-48ad-8c8d-4de2307b3d2c",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "Am not well",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "c0c99df5-c511-4583-b84b-cb85e051ebf5",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "I don't feel well",
+          "userDefined": false
+        }
+      ],
+      "count": 1,
+      "id": "6914255d-8d75-4324-acfb-3ca92e7c8729",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "Am not feeling well ",
+          "userDefined": false
+        },
+        {
+          "text": "today",
+          "userDefined": false,
+          "alias": "date-time",
+          "meta": "@sys.date-time"
+        }
+      ],
+      "count": 0,
+      "id": "643e4709-55b6-4bc1-8fa0-be5d853e9997",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "I am feeling sick",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "c0fde9db-446e-4c23-be94-870a00be26cc",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "I am sick",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "c7b8b0a9-ba05-4aa7-a942-e9d36d7f333f",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "Please help me",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "8b1c107d-cce2-4493-b64a-a6d343dbd138",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "I need some help",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "796f5f8c-73f2-4d1d-a700-b1c851e72374",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "I really feel sick",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "abb5ba66-b5a1-45bd-9145-b48c795acb4d",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "I think am sick",
+          "userDefined": false
+        }
+      ],
+      "count": 1,
+      "id": "bbd16f89-c8b0-4bca-9ee7-d79cc3826e33",
+      "updated": null
+    }
+  ],
+  "webhookForSlotFilling": false,
+  "webhookUsed": false
+}
